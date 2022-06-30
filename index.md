@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>dianhan的github</title>
+<link rel="shortcut icon" href="https://www.bilibili.com/favicon.ico">
+<style>
+body{
+background-image: url("https://raw.githubusercontent.com/Daihanhan/daihanhan.github.io/main/pc.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment:fixed;
+}
+div{
+text-align: center;
 
-You can use the [editor on GitHub](https://github.com/Daihanhan/daihanhan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+}
+	        @media only screen and (orientation: portrait){
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+            body{background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-image:url("https://raw.githubusercontent.com/Daihanhan/daihanhan.github.io/main/m.jpg");}
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Daihanhan/daihanhan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        }
+</style>
+</head>
+<body>
+<div>
+<p>e......你来干什么</p>
+</div>
+</body>
+</html>
